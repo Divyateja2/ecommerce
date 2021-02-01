@@ -1,4 +1,4 @@
-fetch("../data/data.json").then(responce=>{
+fetch("https://divyateja2.github.io/ecommerce/data/data.json").then(responce=>{
 	return responce.json()
 }).then(data=>{
 	displayData(data)
