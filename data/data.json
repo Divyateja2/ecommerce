@@ -1,0 +1,35 @@
+{
+	"mobiles":[
+		{
+			"name":"Lenovo",
+			"image":"img/1.jpg",
+			"originalPrice":16000,
+			"price":14000
+		},
+		{
+			"name":"Oppo",
+			"image":"img/2.jpeg",
+			"originalPrice":19000,
+			"price":10000
+
+		},
+		{
+			"name":"One Plus",
+			"image":"img/3.jpg",
+			"originalPrice":20000,
+			"price":15000
+		},
+		{
+			"name":"Samsung",
+			"image":"img/4.jpg",
+			"originalPrice":10000,
+			"price":5000
+		},
+		{
+			"name":"Mottorola 1+",
+			"image":"img/5.jpg",
+			"originalPrice":15000,
+			"price":15000
+		}
+	]
+}
